@@ -19,7 +19,7 @@ const ProjectCarousel = () => {
       id: 2,
       title: "LocaLite",
       description: "Local discovery platform helping users find and book unique experiences in their city.",
-      image: "/Project/LocaLite.png",
+      image: "/Project/Localite.png",
       url: "https://localite-xzyk.vercel.app/",
       tools: "React.js, Tailwind CSS, Node.js, Express.js, MongoDB"
     },
@@ -27,15 +27,15 @@ const ProjectCarousel = () => {
       id: 3,
       title: "BitLinks",
       description: "URL shortening service with analytics dashboard and custom alias creation.",
-      image: "/Project/BitLinks.png",
+      image: "/Project/BitLinks.avif",
       url: "https://bitlinks-demo.vercel.app/",
       tools: "Next.js, Tailwind CSS, MongoDB, Redis"
     },
     {
       id: 4,
-      title: "SecureVault",
+      title: "PassOP",
       description: "Password manager with military-grade encryption and cross-device synchronization.",
-      image: "/Project/SecureVault.png",
+      image: "/Project/Password.jpeg",
       url: "https://securevault-demo.vercel.app/",
       tools: "React, Tailwind CSS, Express.js, MongoDB, Crypto.js"
     },
@@ -49,25 +49,25 @@ const ProjectCarousel = () => {
     },
     {
       id: 6,
-      title: "MusicHub",
+      title: "Spotify Clone",
       description: "Music streaming interface with playlist creation and audio visualization.",
-      image: "/Project/MusicHub.png",
+      image: "/Project/spotify.jpg",
       url: "https://musichub-demo.vercel.app/",
       tools: "HTML, CSS, JavaScript, Web Audio API"
     },
     {
       id: 7,
-      title: "TaskMaster",
+      title: "To Do List",
       description: "Productivity application with drag-and-drop task management and progress tracking.",
-      image: "/Project/TaskMaster.png",
+      image: "/Project/todolist.jpg",
       url: "https://taskmaster-demo.vercel.app/",
       tools: "React, Tailwind CSS, Firebase"
     },
     {
       id: 8,
-      title: "LinkHub",
+      title: "BitTree",
       description: "Customizable link aggregation page for social media and digital presence.",
-      image: "/Project/LinkHub.png",
+      image: "/Project/BitTree.png",
       url: "https://linkhub-demo.vercel.app/",
       tools: "Next.js, Tailwind CSS, MongoDB"
     }

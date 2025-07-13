@@ -74,7 +74,7 @@ const AboutSection = () => {
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
             >
-              Hey there! I'm <span className="text-orange-400 font-semibold">Sujal</span> — a code wizard who blends creativity
+              Hey there! I&apos;m <span className="text-orange-400 font-semibold">Sujal</span> — a code wizard who blends creativity
               with clean architecture. From crafting elegant UIs in <span className="text-orange-400">React</span> and <span className="text-orange-400">Next.js</span>,
               to wiring powerful backends with <span className="text-orange-400">Node.js</span> and <span className="text-orange-400">MongoDB</span>, I build stuff that works and wows.
             </motion.p>
@@ -85,8 +85,8 @@ const AboutSection = () => {
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.1 }}
             >
-              I've recreated icons like <em className="text-orange-300">Spotify</em> and <em className="text-orange-300">Twitter</em>, and developed tools like{" "}
-              <span className="text-orange-400">BitLinks</span> — a slick URL shortener. Whether it's building APIs, user auth, or full-blown apps, I'm all in.
+              I&apos;ve recreated icons like <em className="text-orange-300">Spotify</em> and <em className="text-orange-300">Twitter</em>, and developed tools like{" "}
+              <span className="text-orange-400">BitLinks</span> — a slick URL shortener. Whether it&apos;s building APIs, user auth, or full-blown apps, I&apos;m all in.
             </motion.p>
 
             <motion.p 
@@ -95,7 +95,7 @@ const AboutSection = () => {
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.2 }}
             >
-              Fluent in <span className="text-orange-400">Python</span>, <span className="text-orange-400">Java</span>, <span className="text-orange-400">C++</span>, and <span className="text-orange-400">C</span>, I speak both frontend sparkle and backend logic. Let's turn ideas into awesome digital experiences.
+              Fluent in <span className="text-orange-400">Python</span>, <span className="text-orange-400">Java</span>, <span className="text-orange-400">C++</span>, and <span className="text-orange-400">C</span>, I speak both frontend sparkle and backend logic. Let&apos;s turn ideas into awesome digital experiences.
             </motion.p>
           </motion.div>
 
