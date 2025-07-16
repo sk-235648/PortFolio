@@ -51,7 +51,7 @@ const Navbar = () => {
           transition={{ delay: 0.5 }}
         >
           <a
-            href="/Resume sujal.pdf"
+            href="/Sujal.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-orange-400 transition font-medium cursor-pointer"
